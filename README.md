@@ -39,4 +39,4 @@ End-to-end deep learning pipeline classifying tea leaf diseases using transfer l
 1. Open notebook in [Google Colab](https://colab.research.google.com)
 2. Set runtime to **T4 GPU**
 3. Upload the dataset zip when prompted in Cell 2
-4. Run all cells — total time ~20 min
+4. Run all cells - total time ~20 min
