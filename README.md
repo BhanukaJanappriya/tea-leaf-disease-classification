@@ -16,8 +16,8 @@ End-to-end deep learning pipeline classifying tea leaf diseases using transfer l
 | ResNet50 | [XX.X%]      | [XX.X%]          | ~24M               |
 
 ## Architecture
-- **VGG16** — last 2 conv blocks fine-tuned + custom head: `25088→1024→256→3`  
-- **ResNet50** — layer4 fine-tuned + custom head: `2048→512→3`
+- **VGG16** : last 2 conv blocks fine-tuned + custom head: `25088→1024→256→3`  
+- **ResNet50** : layer4 fine-tuned + custom head: `2048→512→3`
 
 ## Training Setup
 - Optimiser: AdamW | LR: 1e-4 with CosineAnnealingLR
